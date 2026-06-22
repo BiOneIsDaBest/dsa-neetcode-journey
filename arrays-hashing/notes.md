@@ -75,10 +75,10 @@ for num in nums:
 Máy tính thực hiện:
 
 ```text
-num = 10 -> print(10)
-num = 20 -> print(20)
-num = 30 -> print(30)
-num = 40 -> print(40)
+num = nums[0] = 10 -> print(10)
+num = nums[1] = 20 -> print(20)
+num = nums[2] = 30 -> print(30)
+num = nums[3] = 40 -> print(40)
 ```
 
 Có 4 phần tử -> chạy 4 lần.
